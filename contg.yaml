@@ -1,0 +1,7 @@
+cells:
+  SW_1:
+    dataRef: "ICMP ping"
+    fillColor:
+      thresholds:
+        - { color: "#FF0000", level: 0 }
+        - { color: "#00FF00", level: 1 }
